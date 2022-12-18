@@ -16,10 +16,6 @@ pipeline{
 	       steps{
 	              echo "Pakacging the project "
                }   
-#	       steps{
-#	              echo " Crating the artificatory to ready deployable build"
-
-#	       } 
 
 	  }
 	  stage("Deploy on container"){
