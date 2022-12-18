@@ -24,7 +24,7 @@ Pipeline{
 	  stage("Deploy on container"){
 
 	        steps{
-	        echo "Dployoing on container")
+	        echo "Dployoing on container"
 		}
           }   	
    }
